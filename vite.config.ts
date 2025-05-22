@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/GRAMSPELL-FRONTEND/', // Set base path for GitHub Pages
+  base: '/FRONTEND-DEPLOY/', // Updated base path for the new GitHub Pages repo
 })
